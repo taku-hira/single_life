@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+body {
+    background-color: white;
+}
+h1 {
+    margin-bottom: 150px;
+    font-family: 'Poppins', sans-serif;
+}
+.message {
+    color: #228B22;
+    border: 3px solid #228B22;
+    font-size: 30px;
+    padding: 20px;
+    text-align: center;
+}
+.err_msg {
+    color: red;
+    border: 3px solid red;
+    font-size: 30px;
+    padding: 20px;
+    text-align: center;
+}
+.complate {
+    background-color: #DDDDDD;
+    margin: auto;
+    width: 400px;
+    border: solid 1px black;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}

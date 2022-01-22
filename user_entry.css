@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+body {
+    background-color: white;
+}
+h1 {
+    margin-bottom: 10px;
+    font-family: 'Poppins', sans-serif;
+    }
+a {
+    text-decoration: none;
+}
+.message {
+    color: #228B22;
+    border: 3px solid #228B22;
+    font-size: 30px;
+    padding: 20px;
+    text-align: center;
+}
+.err_msg {
+    color: red;
+    border: 3px solid red;
+    font-size: 30px;
+    padding: 20px;
+    text-align: center;
+}
+.background {
+    text-align: center;
+    background-color: #F5F5F5;
+    margin-bottom: 10px;
+}
+.background img{
+    height:400px;
+    width: 1250px;
+    display: inline-block;
+}
+.entry {
+    background-color: #DDDDDD;
+    margin: auto;
+    width: 400px;
+    border: solid 1px black;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
